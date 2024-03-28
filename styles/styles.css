@@ -112,3 +112,49 @@ section {
   color: #474747;
   font-weight: 700;
 }
+/* what i do section style */
+.what-i-do {
+  text-align: center;
+}
+.section-info {
+  color: #757575;
+  margin-top: 30px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+.what-section-title {
+  color: #181818;
+  font-weight: 700;
+  font-size: 35px;
+  text-align: center;
+  margin: 0px 130px 0px 30px;
+}
+
+.skills-container {
+  display: flex;
+  gap: 24px;
+}
+.skill {
+  background: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.6);
+  padding: 30px;
+}
+.skill-title {
+  font-size: 20px;
+  color: #181818;
+  font-weight: 700;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.skill-description {
+  color: #757575;
+}
+/* resume section style */
+
+.resume-section-title {
+  font-size: 35px;
+  color: #181818;
+  text-align: center;
+}
